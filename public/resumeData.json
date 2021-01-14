@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Abhinay Kumar",
+    "occupation": "B.E in computer science and engineering",
+    "description": "Web Developer & Trainer",
+    "image": "Naz.jpeg",
+    "bio": "My name is Abhinay, I'm a Web Developer. Currently I work as a trainer at myself.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "support@boppero.com",
+    "phone": "+91 8340536418",
+    "address": {
+      "street": "Wd 8",
+      "city": "",
+      "state": "Bihar",
+      "zip": "811311"
+    },
+    "website": "https://www.boppero.com",
+    "resumedownload": "https://boppero.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100056200341123",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhinay-kumar-4005a2118/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abhi_kr_cop/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/abhi-cop-dev10",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Show skills to employer.",
+    "education": [
+      {
+        "school": "Chandigarh University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "In 2021",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Boppero Enterprises",
+        "title": "JavaScript/Web",
+        "years": "May 2018 - Present",
+        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+      },
+      {
+        "company": "Boppero Enterprises",
+        "title": "Founder / Developer",
+        "years": "Jan 2019 - Present",
+        "description": "Trainer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "76%"
+      },
+      {
+        "name": "Laravel",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Boppero",
+        "category": "Wordpress",
+        "image": "zoom.jpg",
+        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+      },
+      {
+        "title": "Calculator",
+        "category": "Pure HTML",
+        "image": "robinhood.jpg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Testimonial 1",
+        "user": "User 1"
+      },
+      {
+        "text": "Testimonial 2",
+        "user": "User 2"
+      }
+    ]
+  }
+}
